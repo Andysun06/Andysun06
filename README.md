@@ -1,3 +1,5 @@
+<center><font face="黑体" size=8>欢迎来到Andysun06的个人网站</font></center>
+
 ## 关于此网站：
 - 此网站为Andysun06个人搭建，属于私人网站
 - 此网站搭建日期为：2020/4/17
