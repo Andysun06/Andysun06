@@ -1,4 +1,4 @@
-<center><font face="黑体" size=8>欢迎来到Andysun06的个人网站</font></center>
+<font face="黑体" size=8><center>欢迎来到Andysun06的个人网站</center></font>
 
 ## 关于此网站：
 - 此网站为Andysun06个人搭建，属于私人网站
